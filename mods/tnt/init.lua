@@ -28,8 +28,8 @@ minetest.after(0, function()
 end)
 
 local function rand_pos(center, pos, radius)
-	pos.x = center.x + math.random(-radius + 1, radius - 1)
-	pos.z = center.z + math.random(-radius + 1, radius - 1)
+	pos.x = center.x + math.random(-1, 1)
+	pos.z = center.z + math.random(-1, 1)
 end
 
 local function eject_drops(drops, pos, radius)
