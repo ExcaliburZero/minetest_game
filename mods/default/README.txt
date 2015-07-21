@@ -38,8 +38,6 @@ Cisoun's conifers mod (WTFPL):
   default_pine_needles.png
 
 Originating from G4JC's Almost MC Texture Pack:
-  default_torch.png
-  default_torch_on_ceiling.png
   default_torch_on_floor.png
 
 VanessaE's animated torches (WTFPL):
